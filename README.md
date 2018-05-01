@@ -1,6 +1,6 @@
 # Keras_Pruner
 
-#Efficient Implementation of the NVIDIA_PAPER [\[1611.06440 Pruning Convolutional Neural Networks for Resource Efficient Inference\]]
+## Efficient Keras implementation of  [\[1611.06440 Pruning Convolutional Neural Networks for Resource Efficient Inference\]](https://arxiv.org/abs/1611.06440) ##
 
 # Only the code of the pruner is present.
 
